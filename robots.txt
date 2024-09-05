@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mpolithes.github.io/sitemap.html.gz
+Sitemap: https://mpolithes.github.io/app/sitemap.html.gz
+Sitemap: https://mpolithes.github.io/assets/sitemap.html.gz
+Sitemap: https://mpolithes.github.io/css/sitemap.html.gz
+Sitemap: https://mpolithes.github.io/includes/sitemap.html.gz
+Sitemap: https://mpolithes.github.io/item/sitemap.html.gz
+Sitemap: https://mpolithes.github.io/src/sitemap.html.gz
